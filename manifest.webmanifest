@@ -1,0 +1,1 @@
+{"name": "병현이의 긍정카드", "short_name": "긍정카드", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f8f3ea", "theme_color": "#829c7f", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
